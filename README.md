@@ -9,7 +9,9 @@ Data Science:
 [R: ggpubr, tidyverse, datarium, dplyr].
 [Machine Learning:](https://youtu.be/Pju8ecWWRAw)
 ![download](https://github.com/user-attachments/assets/8da63d9a-6382-41bb-b57f-e6dcbe82ec05)
+https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
 
+https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 [Tree Based Models:](https://youtu.be/FOtl6qM_nX0)
 https://github.com/spawar2/BTEC-620-Spring-2023/blob/main/Phylogenetic-Analysis.R
 
